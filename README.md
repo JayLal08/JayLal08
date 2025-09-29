@@ -21,7 +21,7 @@ Welcome to my GitHub profile! Here are my LeetCode stats:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jaylalwani1113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jaylalwani1113" height="30" width="40" /></a>
-<a href="https://dribbble.com/jaylalwani1113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="jaylalwani1113" height="30" width="40" /></a>
+<a href="https://dribbble.com/Djkl-08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Djkl-08" height="30" width="40" /></a>
 <a href="https://www.behance.net/jaylalwani2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jaylalwani2" height="30" width="40" /></a>
 <a href="https://hashnode.com/@jayklalwani01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@jayklalwani01" height="30" width="40" /></a>
 <a href="https://medium.com/@jlalwani321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jlalwani321" height="30" width="40" /></a>
